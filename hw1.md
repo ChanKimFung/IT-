@@ -29,7 +29,7 @@ OPM (组织级项目管理)的概念：OPM 指为实现战略目标而整合项�
 projects、programs和portfolio之间的关系以及与operations的关系
 
 ![](https://github.com/ChanKimFung/IT-homework/blob/master/84a72a28c149d150c131f7281cea7b97.png)
-![](https://github.com/ChanKimFung/IT-homework/blob/master/84a72a28c149d150c131f7281cea7b97.png)
+![](https://github.com/ChanKimFung/IT-homework/blob/master/a3be217a43fc6a9decd9679492662ed0.png)
 
 projects、programs、和 portfolio 之间的区别
 
